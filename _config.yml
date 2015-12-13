@@ -1,0 +1,28 @@
+name: patrik
+favicon: null
+layout_spectrum: 0.007939221570268273
+typography_spectrum: 0.010003038216382265
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.631835995009169
+  lightness: 0.5408729345072061
+  saturation: 0.36644624918699265
+  rhythmicContrast: 0.10563066857866943
+purpose: []
